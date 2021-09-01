@@ -67,7 +67,7 @@
         </style>
     </head>
     <body>
-        <a href="{{ route('index_livro')}}">Voltar a página anterior</a>  
+        <!--<a href="{{ route('index_livro')}}">Voltar a página anterior</a> -->
         <div class="box">
             <form action="{{ route('atualizar_livro', ['id' => $livro->id]) }}" method="post">
              @csrf

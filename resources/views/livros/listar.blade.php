@@ -41,7 +41,7 @@
     </head>
     <body>
         <div class="box">
-        <a href="{{ route('index_livro')}}">Voltar a página anterior</a> 
+        <!--<a href="{{ route('index_livro')}}">Voltar a página anterior</a> -->
         <fieldset>
             <legend><b>Livros cadastrados</b></legend>
             <br><br>
