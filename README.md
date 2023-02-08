@@ -30,4 +30,8 @@ Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+O framework Laravel é um software de código aberto licenciado [MIT license](https://opensource.org/licenses/MIT).
+
+---
+
+Feito com ♥ by Keliane
